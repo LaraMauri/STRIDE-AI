@@ -1,3 +1,5 @@
+# ML Model Assets and their Failure Modes
+
 |ML model asset|Failure mode|
 |:---|:---|
 |**_Hyper-parameters_** are meta parameters associated with any ML algorithm that do not have dependency on the data, and whose value is set before the learning process begins. Their value can defined by trial-and-error using model space search techniques.|Hyper-parameters may fail when no hyper-parameter optimization is performed. Relying on the model’s default hyper-parameters implies that their value may be completely inappropriate for the underlying problem.|
