@@ -1,4 +1,4 @@
-# Failure Mode and Effects Analysis of AI ML Systems
+# Failure Mode and Effects Analysis of AI-ML Systems
 
 ## Background on FMEA
 Failure Mode and Effects Analysis (FMEA) is a structured approach to discovering potential failures that may exist within the design of a product or process. Failure modes are the ways in which an asset (be it a process, system or component) can fail. Effects are the ways that these failures can lead to waste, defects or harmful outcomes for the customer. Failure Mode and Effects Analysis is designed to identify, prioritize and limit these failure modes.
