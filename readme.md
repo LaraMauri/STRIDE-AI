@@ -7,3 +7,5 @@
 [ML Model Assets and their Failure Modes](https://github.com/LaraMauri/STRIDE-AI/blob/main/pages/ML-model-assets-and-their-failure-modes.md)
 
 [Mapping Model Assets' Failure Modes to CIA<sup>3</sup>-R Hexagon](https://github.com/LaraMauri/STRIDE-AI/new/main/pages)
+
+Further material will be added shortly!
