@@ -1,8 +1,8 @@
 # ML Assets and their Failure Modes
 
 - [Data](https://github.com/LaraMauri/STRIDE-AI/blob/main/pages/ML-data-assets-and-their-failure-modes.md#data)
-- Models
-- Artefacts
+- [Models]()
+- [Artefacts]()
 
 ## Data
 
@@ -16,3 +16,10 @@
 |**_Augmented data_** is labeled data that is complemented at the model tuning stage by additional data produced by transformations or by generative ML models. Augmentation increases labeled data sets’ diversity, which is supposed to prevent over-fitting.| <ul><li> Augmented data help to solve the problem of data deficiency by increasing the amount of data available in the training data set. </li><li> Data augmentation can be performed in data-space or feature-space. </li><li> Augmented data are supposed to prevent over-fitting. </li></ul> | <ul><li> Augmented data sets may fail due to inconsistency with the training set they are derived from. </li><li> Heuristic data augmentation schemes are often tuned manually by humans, and defective augmentation policies may cause ML models to loose rather than gaining accuracy from the augmented data. </li></ul> |
 |**_Held-out test cases_** (HTCs) are inputs used to test ML models in production, i.e. in the model maintenance stage. HTCs include special inputs of high interest for the application.| <ul><li> The rationale for HTCs is that even if an ML model keeps showing good accuracy, its performance on specific inputs may become unacceptable. </li></ul> | <ul><li> HTCs fail when the ML model’s accuracy metrics computed on them does not correspond to the business goals of the application. </li><li> Careless selection of HTCs can trigger unneeded model retraining. </li></ul> |
 |**_Inferences_** are results computed by ML models based on real inputs, according to the task of interest in the model deployment and model maintenance stages.| <ul><li> Inferences serve to produce actionable outputs when live data run into ML models. </li></ul> | <ul><li> Inferences may fail by showing high entropy, i.e. conveying little information useful for the ML task at hand. </li></ul>|
+
+## Models
+
+## Artefacts
+
+
+
