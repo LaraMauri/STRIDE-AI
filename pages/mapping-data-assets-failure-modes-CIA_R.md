@@ -1,4 +1,10 @@
-# Mapping Data Assets' Failure Modes to CIA<sup>3</sup>-R Hexagon
+# Mapping ML Assets' Failure Modes to CIA<sup>3</sup>-R Hexagon
+
+* [Data]()
+* [Models]()
+* [Artefacts]()
+
+## Data
 
 | Asset | Properties | Threats | Known attacks|
 |:---|:---|:---|:---|
