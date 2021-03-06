@@ -1,8 +1,8 @@
 # Mapping ML Assets' Failure Modes to CIA<sup>3</sup>-R Hexagon
 
-* [Data](https://github.com/LaraMauri/STRIDE-AI/blob/main/pages/mapping-ml-assets-failure-modes-CIA_R.md#data)
-* [Models](https://github.com/LaraMauri/STRIDE-AI/blob/main/pages/mapping-ml-assets-failure-modes-CIA_R.md#models)
-* [Artefacts](https://github.com/LaraMauri/STRIDE-AI/blob/main/pages/mapping-ml-assets-failure-modes-CIA_R.md#artefacts)
+* [Data](https://github.com/LaraMauri/STRIDE-AI/blob/main/pages/mapping-ML-assets-failure-modes-CIA_R.md#data)
+* [Models](https://github.com/LaraMauri/STRIDE-AI/blob/main/pages/mapping-ML-assets-failure-modes-CIA_R.md#models)
+* [Artefacts](https://github.com/LaraMauri/STRIDE-AI/blob/main/pages/mapping-ML-assets-failure-modes-CIA_R.md#artefacts)
 
 ## Data
 
