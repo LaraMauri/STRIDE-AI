@@ -8,7 +8,6 @@ _Lara Mauri_ and _Ernesto Damiani_
 
 ---
 
-
 ### Additional material:
 
 1. [Failure Mode and Effects Analysis of AI-ML Systems](https://github.com/LaraMauri/STRIDE-AI/blob/main/pages/failure-mode-and-effects-analysis-of-AI-ML-systems.md)<br/>
