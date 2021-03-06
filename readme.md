@@ -9,7 +9,7 @@ _Lara Mauri_ and _Ernesto Damiani_
 ---
 
 
-Additional material:
+### Additional material:
 
 1. [Failure Mode and Effects Analysis of AI-ML Systems](https://github.com/LaraMauri/STRIDE-AI/blob/main/pages/failure-mode-and-effects-analysis-of-AI-ML-systems.md)<br/>
 2. ML Assets and their Failure Modes<br/>2a. [Data](https://github.com/LaraMauri/STRIDE-AI/blob/main/pages/ML-data-assets-and-their-failure-modes.md)<br/>2b. [Models](https://github.com/LaraMauri/STRIDE-AI/blob/main/pages/ML-model-assets-and-their-failure-modes.md)<br/>2c. [Artefacts](https://github.com/LaraMauri/STRIDE-AI/blob/main/pages/ML-artefact-assets-and-their-failure-modes.md)
