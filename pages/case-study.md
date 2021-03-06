@@ -2,4 +2,5 @@
 
 ## Identified Model Assets
 
-![Model Assets identification](https://user-images.githubusercontent.com/64526089/110151572-ec90f000-7de0-11eb-84e1-bf692b3edadc.png)
+![Model Assets identification](https://user-images.githubusercontent.com/64526089/110201813-57840a80-7e65-11eb-8e6b-d7126e76d88f.png)
+
