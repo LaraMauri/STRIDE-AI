@@ -1,8 +1,8 @@
 # ML Assets and their Failure Modes
 
 - [Data](https://github.com/LaraMauri/STRIDE-AI/blob/main/pages/ML-data-assets-and-their-failure-modes.md#data)
-- [Models](https://github.com/LaraMauri/STRIDE-AI/blob/main/pages/ML-data-assets-and-their-failure-modes.md)
-- [Artefacts]()
+- [Models](https://github.com/LaraMauri/STRIDE-AI/blob/main/pages/ML-data-assets-and-their-failure-modes.md#models)
+- [Artefacts](https://github.com/LaraMauri/STRIDE-AI/blob/main/pages/ML-data-assets-and-their-failure-modes.md#artefacts)
 
 ## Data
 
