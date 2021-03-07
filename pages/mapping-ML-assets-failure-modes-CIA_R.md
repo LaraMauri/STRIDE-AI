@@ -6,7 +6,7 @@
 
 ## Data
 
-| Asset | Properties | Threats | Known attacks|
+| ML Data Asset | Properties | Threats | Known Attacks|
 |:---|:---|:---|:---|
 |Requirements|Availability|DoS|While no direct attacks to requirements have been reported, unexpected legal liabilities deriving from defective requirements have been described in a number of concrete cases, including ML models for medical diagnostics.|
 |Raw data|Authenticity,<br />Confidentiality,<br />Availability,<br />Authorization|Spoofing,<br />Disclosure,<br />DoS,<br />EoP|Attacks by data owners introduce selection bias on purpose when publishing raw data in order to affect inference to be drawn on the data. Reported examples include companies who release biased raw data with the hope competitors would use it to train ML models, causing competitors to diminish the quality of their own products and consumer confidence in them. In perturbation-style attacks, the attacker stealthily modifies raw data to get a desired response from a production-deployed model. This compromises the model’s classification accuracy.|
@@ -19,7 +19,7 @@
 
 ## Models
 
-| Asset | Properties | Threats | Known attacks|
+| ML Model Asset | Properties | Threats | Known Attacks|
 |:---|:---|:---|:---|
 |Data pre-processing algorithms|Integrity,<br />Availability|Tampering,<br />DoS|Flawed schemata negatively impact on the quality of the ingested information used by applications. An adversary can both compromise the program that pre-process data and mount a schema-based denial of service attack which causes the information necessary for pre-processing to be missing.|
 |Hyper-parameters|Confidentiality,<br />Availability,<br />Authorization|Disclosure,<br />DoS,<br />EoP|Nefarious abuse of optimization algorithms by adversaries may lead to erroneous tuning of ML models. Due to their influence over the ML models’ predictive capabilities (and, in turn, their commercial value), hyper-parameters are subject to stealing attacks. The literature reports hyper-parameters stealing attacks that target hyper-parameters used to balance between the loss function and the regularization terms in an objective function.|
@@ -30,7 +30,7 @@
 
 ## Artefacts
 
-| Asset | Properties | Threats | Known attacks|
+| ML Artefact Asset | Properties | Threats | Known Attacks|
 |:---|:---|:---|:---|
 |Model architecture|Authenticity,<br />Confidentiality|Spoofing,<br />Disclosure|Man-in-the-Middle attacks use knowledge of the pipeline structure and interfaces to inject malicious data tailored to maximise damage.|
 |Model hardware design|Confidentiality|Disclosure|Side-Channel attacks to ML hardware implementations attacks use physical observation of the hardware operation to  estimate parameters of the ML model implemented by the circuit.|
