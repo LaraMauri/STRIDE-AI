@@ -16,3 +16,12 @@ _Lara Mauri_ and _Ernesto Damiani_
 4. [Case Study: LIGHT-TOREADOR Platforms](https://github.com/LaraMauri/STRIDE-AI/blob/main/pages/case-study.md)
 
 **--> Further material will be added shortly!**
+
+---
+
+## Contributors
+
+**Lara Mauri**<sup>1</sup> and **Ernesto Damiani**<sup>1,2</sup>
+
+<sup>1</sup> _Computer Science Department, Università degli Studi di Milano, Milan, Italy_<br/>
+<sup>2</sup> _Center for Cyber Physical Systems (C2PS), Khalifa University, Abu Dhabi, UAE_
