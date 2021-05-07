@@ -2,7 +2,7 @@
 
 _STRIDE-AI_ is an _ML-specific_, _asset-centered_ methodology for identifying threats to AI-based systems.
 
-Here the reference paper (accepted at 2021 IEEE International Conference on Cyber Security and Resilience):<br/>
+Here the reference paper (accepted at **_2021 IEEE International Conference on Cyber Security and Resilience_**):<br/>
 ["STRIDE-AI: An Approach to Identifying Vulnerabilities of Machine Learning Assets."](https://github.com/LaraMauri/STRIDE-AI/files/6441683/IEEE_CSR_2021__STRIDE_AI__An_Approach_to_Identifying_Vulnerabilities_of_Machine_Learning_Assets.pdf) L. Mauri and E. Damiani
 
 ---
